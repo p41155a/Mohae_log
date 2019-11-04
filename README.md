@@ -1,5 +1,7 @@
 모해라는 앱을 팀 git에서 개발 중입니다.
-모해라는 앱은 
+오늘 모해는 개인 혹은 여러명이 모였을 때, 놀고 싶은데 뭘 해야할지 모를 때,
+몇번의 버튼 클릭으로 가볍게 뭐하고 놀지 추천받을 수 있는 앱입니다.
+저희는 쉬운 접근성과 정확한 결과 도출에 초점을 두고 개발하고 있습니다.
 https://github.com/team-mohae/MoHae/ 
 여기서 자료를 볼 수 있습니다.
 
@@ -43,3 +45,10 @@ stadium - 경기장 e스포츠 포함
 university - 대학
 zoo - 동물원
 
+target 'Mohae' do
+    pod 'Firebase/Core'
+    pod 'Firebase/Database'
+    pod 'SnapKit', '~> 5.0.0'
+    pod 'Charts', :git => 'https://github.com/danielgindi/Charts.git'
+    pod 'RealmSwift', '~>2.0.4'
+end
