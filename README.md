@@ -45,10 +45,15 @@ stadium - 경기장 e스포츠 포함
 university - 대학
 zoo - 동물원
 
+
 target 'Mohae' do
+
     pod 'Firebase/Core'
+    
     pod 'Firebase/Database'
+    
     pod 'SnapKit', '~> 5.0.0'
-    pod 'Charts', :git => 'https://github.com/danielgindi/Charts.git'
-    pod 'RealmSwift', '~>2.0.4'
+    
+    pod 'Firebase/Auth'
+    
 end
