@@ -10,40 +10,38 @@ https://github.com/team-mohae/MoHae/
 사람의 성향을 파악하는 작업을 하고 있습니다.
 
 추천을 해줄 놀 수 있는 곳 리스트
-∙ 불꽃 놀이
-∙ EDM 페스티벌
-∙ 계절별 꽃 축제
-∙ 먹거리 축제
-∙ 북 페스티벌
-∙ 가구 만들기 클래스
-∙ 바리스타 클래스
-amusement_park - 놀이공원
-aquarium - 수족관
-art_gallery - 미술관
-bakery - 빵집
-bar - 술집
-beauty_salon - 미용실 네일
-bicycle_store - 자전거
-book_store - 서점
-bowling_alley - 볼링
-cafe - 카페
-campground- 캠핑장
-church - 교회
-florist - 꽃집
-gym - 요가 스포츠클럽
-library - 도서관
-lodging - 하숙 모텔 호텔
-movie_rental - dvd
-movie_theater - 영화관
-museum - 박물관
-night_club - 클럽 노래방
-park - 공원
-pet_store - 펫샵
-restaurant -음식점
-spa - 스파
-stadium - 경기장 e스포츠 포함
-university - 대학
-zoo - 동물원
+
+- 불꽃 놀이
+- EDM 페스티벌
+- 계절별 꽃 축제
+- 먹거리 축제
+- 북 페스티벌
+- 가구 만들기 클래스
+- 바리스타 클래스
+- amusement_park - 놀이공원
+- aquarium - 수족관
+- art_gallery - 미술관
+- bakery - 빵집
+- bar - 술집
+- beauty_salon - 미용실 네일
+- bicycle_store - 자전거
+- book_store - 서점
+- bowling_alley - 볼링
+- cafe - 카페
+- campground- 캠핑장
+- church - 교회
+- florist - 꽃집
+- gym - 요가 스포츠클럽
+- library - 도서관
+- lodging - 하숙 모텔 호텔
+- movie_rental - dvd
+- movie_theater - 영화관
+- museum - 박물관
+- night_club - 클럽 노래방
+- park - 공원
+- pet_store - 펫샵
+- restaurant -음식점
+등등
 
 
 platform :ios, '11.0'
